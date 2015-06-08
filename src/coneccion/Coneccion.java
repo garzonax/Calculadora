@@ -16,6 +16,11 @@ public class Coneccion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        /*
+            muestra hola mundo
+        */
+        System.out.print("hola mundo");
     }
     
 }
