@@ -18,9 +18,13 @@ public class Coneccion {
         // TODO code application logic here
         
         /*
-            muestra hola mundo
+            muestra algun menssaje escrtiro en la variable
+            mensaje
         */
-        System.out.print("hola mundo");
+        
+        String mesaje;
+        mesaje = "algun otro mesaje";
+        System.out.print(mesaje);
     }
     
 }
